@@ -1,0 +1,17 @@
+C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Infrastructure\bin\Debug\net8.0\ProgiApp.Infrastructure.deps.json
+C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Infrastructure\bin\Debug\net8.0\ProgiApp.Infrastructure.dll
+C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Infrastructure\bin\Debug\net8.0\ProgiApp.Infrastructure.pdb
+C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Infrastructure\obj\Debug\net8.0\ProgiApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Infrastructure\obj\Debug\net8.0\ProgiApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Infrastructure\obj\Debug\net8.0\ProgiApp.Infrastructure.AssemblyInfo.cs
+C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Infrastructure\obj\Debug\net8.0\ProgiApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Infrastructure\obj\Debug\net8.0\ProgiApp.Infrastructure.dll
+C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Infrastructure\obj\Debug\net8.0\refint\ProgiApp.Infrastructure.dll
+C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Infrastructure\obj\Debug\net8.0\ProgiApp.Infrastructure.pdb
+C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Infrastructure\obj\Debug\net8.0\ref\ProgiApp.Infrastructure.dll
+C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Infrastructure\obj\Debug\net8.0\ProgiApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Infrastructure\bin\Debug\net8.0\ProgiApp.Infrastructure.runtimeconfig.json
+C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Infrastructure\bin\Debug\net8.0\ProgiApp.Domain.dll
+C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Infrastructure\bin\Debug\net8.0\ProgiApp.Domain.pdb
+C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Infrastructure\obj\Debug\net8.0\ProgiApp.98E00AAA.Up2Date
+C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Infrastructure\obj\Debug\net8.0\ProgiApp.Infrastructure.genruntimeconfig.cache
