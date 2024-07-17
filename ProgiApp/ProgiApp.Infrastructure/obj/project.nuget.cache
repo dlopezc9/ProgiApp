@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kx3t2xZ57p4=",
+  "dgSpecHash": "eL4lt6fBmf0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dlopezc9\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\dlopezc9\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgiApp.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0c1ccf0a9034d9166a4619f57023cad5465cfd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProgiApp.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgiApp.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,129 +1,133 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dlopezc9\\source\\ProgiApp\\",
+  "WorkspaceRootPath": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.services\\queryshandler\\calculations\\getcalculatedvaluesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|solutionrelative:progiapp.services\\queryshandler\\calculations\\getcalculatedvaluesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91C74D23-D7E3-405B-8B5C-6B120CF62F79}|ProgiApp.API.Tests\\ProgiApp.API.Tests.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.api.tests\\commands\\insertvehiclecommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C74D23-D7E3-405B-8B5C-6B120CF62F79}|ProgiApp.API.Tests\\ProgiApp.API.Tests.csproj|solutionrelative:progiapp.api.tests\\commands\\insertvehiclecommandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7D2E45A-60D9-41A1-A7D9-39E2AABB295B}|ProgiApp.API\\ProgiApp.API.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.api\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7D2E45A-60D9-41A1-A7D9-39E2AABB295B}|ProgiApp.API\\ProgiApp.API.csproj|solutionrelative:progiapp.api\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7D2E45A-60D9-41A1-A7D9-39E2AABB295B}|ProgiApp.API\\ProgiApp.API.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.api\\controllers\\calculationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7D2E45A-60D9-41A1-A7D9-39E2AABB295B}|ProgiApp.API\\ProgiApp.API.csproj|solutionrelative:progiapp.api\\controllers\\calculationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCC22F91-81CD-401E-A13C-A653E4CEB90C}|ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.infrastructure\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCC22F91-81CD-401E-A13C-A653E4CEB90C}|ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj|solutionrelative:progiapp.infrastructure\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.services\\commandshandler\\vehicles\\deletevehiclecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|solutionrelative:progiapp.services\\commandshandler\\vehicles\\deletevehiclecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.services\\commands\\vehicles\\insertvehiclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|solutionrelative:progiapp.services\\commands\\vehicles\\insertvehiclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.services\\commandshandler\\vehicles\\insertvehiclecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.services\\commandshandler\\vehicles\\insertvehiclecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|solutionrelative:progiapp.services\\commandshandler\\vehicles\\insertvehiclecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.services\\querys\\calculations\\getcalculatedvaluesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.services\\queryshandler\\calculations\\getcalculatedvaluesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|solutionrelative:progiapp.services\\queryshandler\\calculations\\getcalculatedvaluesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D2E45A-60D9-41A1-A7D9-39E2AABB295B}|ProgiApp.API\\ProgiApp.API.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.api\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D2E45A-60D9-41A1-A7D9-39E2AABB295B}|ProgiApp.API\\ProgiApp.API.csproj|solutionrelative:progiapp.api\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D2E45A-60D9-41A1-A7D9-39E2AABB295B}|ProgiApp.API\\ProgiApp.API.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.api\\controllers\\calculationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D2E45A-60D9-41A1-A7D9-39E2AABB295B}|ProgiApp.API\\ProgiApp.API.csproj|solutionrelative:progiapp.api\\controllers\\calculationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC22F91-81CD-401E-A13C-A653E4CEB90C}|ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.infrastructure\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC22F91-81CD-401E-A13C-A653E4CEB90C}|ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj|solutionrelative:progiapp.infrastructure\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.services\\commandshandler\\vehicles\\deletevehiclecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|solutionrelative:progiapp.services\\commandshandler\\vehicles\\deletevehiclecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.services\\commands\\vehicles\\insertvehiclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|solutionrelative:progiapp.services\\commands\\vehicles\\insertvehiclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.services\\querys\\calculations\\getcalculatedvaluesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|solutionrelative:progiapp.services\\querys\\calculations\\getcalculatedvaluesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.services\\querys\\vehicles\\getallvehiclesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.services\\querys\\vehicles\\getallvehiclesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|solutionrelative:progiapp.services\\querys\\vehicles\\getallvehiclesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.domain\\interfaces\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.domain\\interfaces\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|solutionrelative:progiapp.domain\\interfaces\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.services\\commands\\vehicles\\deletevehiclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.services\\commands\\vehicles\\deletevehiclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|solutionrelative:progiapp.services\\commands\\vehicles\\deletevehiclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.services\\queryshandler\\vehicles\\getallvehiclesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.services\\queryshandler\\vehicles\\getallvehiclesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|solutionrelative:progiapp.services\\queryshandler\\vehicles\\getallvehiclesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.domain\\models\\otherfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.domain\\models\\otherfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|solutionrelative:progiapp.domain\\models\\otherfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.domain\\models\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.domain\\models\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|solutionrelative:progiapp.domain\\models\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.domain\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.domain\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|solutionrelative:progiapp.domain\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.domain\\models\\sellerfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.domain\\models\\sellerfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|solutionrelative:progiapp.domain\\models\\sellerfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7D2E45A-60D9-41A1-A7D9-39E2AABB295B}|ProgiApp.API\\ProgiApp.API.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7D2E45A-60D9-41A1-A7D9-39E2AABB295B}|ProgiApp.API\\ProgiApp.API.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7D2E45A-60D9-41A1-A7D9-39E2AABB295B}|ProgiApp.API\\ProgiApp.API.csproj|solutionrelative:progiapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCC22F91-81CD-401E-A13C-A653E4CEB90C}|ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.infrastructure\\repositories\\sellerfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCC22F91-81CD-401E-A13C-A653E4CEB90C}|ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.infrastructure\\repositories\\sellerfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCC22F91-81CD-401E-A13C-A653E4CEB90C}|ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj|solutionrelative:progiapp.infrastructure\\repositories\\sellerfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCC22F91-81CD-401E-A13C-A653E4CEB90C}|ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.infrastructure\\repositories\\otherfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCC22F91-81CD-401E-A13C-A653E4CEB90C}|ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.infrastructure\\repositories\\otherfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCC22F91-81CD-401E-A13C-A653E4CEB90C}|ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj|solutionrelative:progiapp.infrastructure\\repositories\\otherfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCC22F91-81CD-401E-A13C-A653E4CEB90C}|ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.infrastructure\\repositories\\buyerfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCC22F91-81CD-401E-A13C-A653E4CEB90C}|ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.infrastructure\\repositories\\buyerfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCC22F91-81CD-401E-A13C-A653E4CEB90C}|ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj|solutionrelative:progiapp.infrastructure\\repositories\\buyerfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.domain\\interfaces\\iassociationfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.domain\\interfaces\\iassociationfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|solutionrelative:progiapp.domain\\interfaces\\iassociationfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCC22F91-81CD-401E-A13C-A653E4CEB90C}|ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.infrastructure\\repositories\\associationfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCC22F91-81CD-401E-A13C-A653E4CEB90C}|ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.infrastructure\\repositories\\associationfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCC22F91-81CD-401E-A13C-A653E4CEB90C}|ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj|solutionrelative:progiapp.infrastructure\\repositories\\associationfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCC22F91-81CD-401E-A13C-A653E4CEB90C}|ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.infrastructure\\repositories\\typerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DCC22F91-81CD-401E-A13C-A653E4CEB90C}|ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.infrastructure\\repositories\\typerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCC22F91-81CD-401E-A13C-A653E4CEB90C}|ProgiApp.Infrastructure\\ProgiApp.Infrastructure.csproj|solutionrelative:progiapp.infrastructure\\repositories\\typerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.domain\\interfaces\\isellerfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.domain\\interfaces\\isellerfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|solutionrelative:progiapp.domain\\interfaces\\isellerfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.domain\\interfaces\\ibuyerfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.domain\\interfaces\\ibuyerfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|solutionrelative:progiapp.domain\\interfaces\\ibuyerfeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.domain\\models\\buyerfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.domain\\models\\buyerfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|solutionrelative:progiapp.domain\\models\\buyerfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.domain\\models\\associationfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.domain\\models\\associationfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABA241A9-BB62-4E21-A018-A2F02C831409}|ProgiApp.Domain\\ProgiApp.Domain.csproj|solutionrelative:progiapp.domain\\models\\associationfee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|solutionrelative:progiapp.services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.services\\applicationassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.services\\applicationassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2AF76FD-666D-47B4-99FA-AB185F75C73D}|ProgiApp.Services\\ProgiApp.Services.csproj|solutionrelative:progiapp.services\\applicationassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7D2E45A-60D9-41A1-A7D9-39E2AABB295B}|ProgiApp.API\\ProgiApp.API.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C7D2E45A-60D9-41A1-A7D9-39E2AABB295B}|ProgiApp.API\\ProgiApp.API.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C7D2E45A-60D9-41A1-A7D9-39E2AABB295B}|ProgiApp.API\\ProgiApp.API.csproj|solutionrelative:progiapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7D2E45A-60D9-41A1-A7D9-39E2AABB295B}|ProgiApp.API\\ProgiApp.API.csproj|c:\\users\\dlopezc9\\source\\progiapp\\progiapp.api\\progiapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{C7D2E45A-60D9-41A1-A7D9-39E2AABB295B}|ProgiApp.API\\ProgiApp.API.csproj|c:\\users\\dlopezc9\\documents\\modlist\\progiapp\\progiapp\\progiapp.api\\progiapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{C7D2E45A-60D9-41A1-A7D9-39E2AABB295B}|ProgiApp.API\\ProgiApp.API.csproj|solutionrelative:progiapp.api\\progiapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
@@ -134,97 +138,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "InsertVehicleCommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.API.Tests\\Commands\\InsertVehicleCommandTest.cs",
+              "RelativeDocumentMoniker": "ProgiApp.API.Tests\\Commands\\InsertVehicleCommandTest.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.API.Tests\\Commands\\InsertVehicleCommandTest.cs",
+              "RelativeToolTip": "ProgiApp.API.Tests\\Commands\\InsertVehicleCommandTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:21:49.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "InsertVehicleCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Services\\CommandsHandler\\Vehicles\\InsertVehicleCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Services\\CommandsHandler\\Vehicles\\InsertVehicleCommandHandler.cs",
               "RelativeDocumentMoniker": "ProgiApp.Services\\CommandsHandler\\Vehicles\\InsertVehicleCommandHandler.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Services\\CommandsHandler\\Vehicles\\InsertVehicleCommandHandler.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Services\\CommandsHandler\\Vehicles\\InsertVehicleCommandHandler.cs",
               "RelativeToolTip": "ProgiApp.Services\\CommandsHandler\\Vehicles\\InsertVehicleCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAvwAwAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T23:31:38.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "GetCalculatedValuesQuery.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Services\\Querys\\Calculations\\GetCalculatedValuesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Services\\Querys\\Calculations\\GetCalculatedValuesQuery.cs",
               "RelativeDocumentMoniker": "ProgiApp.Services\\Querys\\Calculations\\GetCalculatedValuesQuery.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Services\\Querys\\Calculations\\GetCalculatedValuesQuery.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Services\\Querys\\Calculations\\GetCalculatedValuesQuery.cs",
               "RelativeToolTip": "ProgiApp.Services\\Querys\\Calculations\\GetCalculatedValuesQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T19:41:13.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T19:41:13.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "ProgiApp.Infrastructure\\Repositories\\VehicleRepository.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\VehicleRepository.cs",
+              "RelativeToolTip": "ProgiApp.Infrastructure\\Repositories\\VehicleRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwCEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T23:18:30.65Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "VehicleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\VehicleRepository.cs",
-              "RelativeDocumentMoniker": "ProgiApp.Infrastructure\\Repositories\\VehicleRepository.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\VehicleRepository.cs",
-              "RelativeToolTip": "ProgiApp.Infrastructure\\Repositories\\VehicleRepository.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAmwCEAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T23:18:30.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "VehiclesController.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.API\\Controllers\\VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.API\\Controllers\\VehiclesController.cs",
               "RelativeDocumentMoniker": "ProgiApp.API\\Controllers\\VehiclesController.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.API\\Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.API\\Controllers\\VehiclesController.cs",
               "RelativeToolTip": "ProgiApp.API\\Controllers\\VehiclesController.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAuwBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T23:11:14.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T23:11:14.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculationsController.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.API\\Controllers\\CalculationsController.cs",
+              "RelativeDocumentMoniker": "ProgiApp.API\\Controllers\\CalculationsController.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.API\\Controllers\\CalculationsController.cs",
+              "RelativeToolTip": "ProgiApp.API\\Controllers\\CalculationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:18:35.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllVehiclesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Services\\Querys\\Vehicles\\GetAllVehiclesQuery.cs",
+              "RelativeDocumentMoniker": "ProgiApp.Services\\Querys\\Vehicles\\GetAllVehiclesQuery.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Services\\Querys\\Vehicles\\GetAllVehiclesQuery.cs",
+              "RelativeToolTip": "ProgiApp.Services\\Querys\\Vehicles\\GetAllVehiclesQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:49:44.733Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CalculationsController.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.API\\Controllers\\CalculationsController.cs",
-              "RelativeDocumentMoniker": "ProgiApp.API\\Controllers\\CalculationsController.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.API\\Controllers\\CalculationsController.cs",
-              "RelativeToolTip": "ProgiApp.API\\Controllers\\CalculationsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T15:18:35.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GetAllVehiclesQuery.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Services\\Querys\\Vehicles\\GetAllVehiclesQuery.cs",
-              "RelativeDocumentMoniker": "ProgiApp.Services\\Querys\\Vehicles\\GetAllVehiclesQuery.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Services\\Querys\\Vehicles\\GetAllVehiclesQuery.cs",
-              "RelativeToolTip": "ProgiApp.Services\\Querys\\Vehicles\\GetAllVehiclesQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T14:49:44.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "GetCalculatedValuesQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Services\\QuerysHandler\\Calculations\\GetCalculatedValuesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Services\\QuerysHandler\\Calculations\\GetCalculatedValuesQueryHandler.cs",
               "RelativeDocumentMoniker": "ProgiApp.Services\\QuerysHandler\\Calculations\\GetCalculatedValuesQueryHandler.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Services\\QuerysHandler\\Calculations\\GetCalculatedValuesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Services\\QuerysHandler\\Calculations\\GetCalculatedValuesQueryHandler.cs",
               "RelativeToolTip": "ProgiApp.Services\\QuerysHandler\\Calculations\\GetCalculatedValuesQueryHandler.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAgwCgAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -233,271 +249,251 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "InsertVehicleCommand.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Services\\Commands\\Vehicles\\InsertVehicleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Services\\Commands\\Vehicles\\InsertVehicleCommand.cs",
               "RelativeDocumentMoniker": "ProgiApp.Services\\Commands\\Vehicles\\InsertVehicleCommand.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Services\\Commands\\Vehicles\\InsertVehicleCommand.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Services\\Commands\\Vehicles\\InsertVehicleCommand.cs",
               "RelativeToolTip": "ProgiApp.Services\\Commands\\Vehicles\\InsertVehicleCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T23:26:22.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T23:26:22.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "DeleteVehicleCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Services\\CommandsHandler\\Vehicles\\DeleteVehicleCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Services\\CommandsHandler\\Vehicles\\DeleteVehicleCommandHandler.cs",
               "RelativeDocumentMoniker": "ProgiApp.Services\\CommandsHandler\\Vehicles\\DeleteVehicleCommandHandler.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Services\\CommandsHandler\\Vehicles\\DeleteVehicleCommandHandler.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Services\\CommandsHandler\\Vehicles\\DeleteVehicleCommandHandler.cs",
               "RelativeToolTip": "ProgiApp.Services\\CommandsHandler\\Vehicles\\DeleteVehicleCommandHandler.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAmwBQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T02:21:49.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IVehicleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\Interfaces\\IVehicleRepository.cs",
-              "RelativeDocumentMoniker": "ProgiApp.Domain\\Interfaces\\IVehicleRepository.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\Interfaces\\IVehicleRepository.cs",
-              "RelativeToolTip": "ProgiApp.Domain\\Interfaces\\IVehicleRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T23:16:24.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T02:21:49.724Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "DeleteVehicleCommand.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Services\\Commands\\Vehicles\\DeleteVehicleCommand.cs",
-              "RelativeDocumentMoniker": "ProgiApp.Services\\Commands\\Vehicles\\DeleteVehicleCommand.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Services\\Commands\\Vehicles\\DeleteVehicleCommand.cs",
-              "RelativeToolTip": "ProgiApp.Services\\Commands\\Vehicles\\DeleteVehicleCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Title": "IVehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\Interfaces\\IVehicleRepository.cs",
+              "RelativeDocumentMoniker": "ProgiApp.Domain\\Interfaces\\IVehicleRepository.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\Interfaces\\IVehicleRepository.cs",
+              "RelativeToolTip": "ProgiApp.Domain\\Interfaces\\IVehicleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T02:13:13.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T23:16:24.958Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "GetAllVehiclesQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Services\\QuerysHandler\\Vehicles\\GetAllVehiclesQueryHandler.cs",
-              "RelativeDocumentMoniker": "ProgiApp.Services\\QuerysHandler\\Vehicles\\GetAllVehiclesQueryHandler.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Services\\QuerysHandler\\Vehicles\\GetAllVehiclesQueryHandler.cs",
-              "RelativeToolTip": "ProgiApp.Services\\QuerysHandler\\Vehicles\\GetAllVehiclesQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
+              "Title": "DeleteVehicleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Services\\Commands\\Vehicles\\DeleteVehicleCommand.cs",
+              "RelativeDocumentMoniker": "ProgiApp.Services\\Commands\\Vehicles\\DeleteVehicleCommand.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Services\\Commands\\Vehicles\\DeleteVehicleCommand.cs",
+              "RelativeToolTip": "ProgiApp.Services\\Commands\\Vehicles\\DeleteVehicleCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T14:51:54.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T02:13:13.324Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "OtherFee.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\Models\\OtherFee.cs",
-              "RelativeDocumentMoniker": "ProgiApp.Domain\\Models\\OtherFee.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\Models\\OtherFee.cs",
-              "RelativeToolTip": "ProgiApp.Domain\\Models\\OtherFee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Title": "GetAllVehiclesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Services\\QuerysHandler\\Vehicles\\GetAllVehiclesQueryHandler.cs",
+              "RelativeDocumentMoniker": "ProgiApp.Services\\QuerysHandler\\Vehicles\\GetAllVehiclesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Services\\QuerysHandler\\Vehicles\\GetAllVehiclesQueryHandler.cs",
+              "RelativeToolTip": "ProgiApp.Services\\QuerysHandler\\Vehicles\\GetAllVehiclesQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T02:16:14.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T14:51:54.421Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Type.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\Models\\Type.cs",
-              "RelativeDocumentMoniker": "ProgiApp.Domain\\Models\\Type.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\Models\\Type.cs",
-              "RelativeToolTip": "ProgiApp.Domain\\Models\\Type.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Title": "OtherFee.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\Models\\OtherFee.cs",
+              "RelativeDocumentMoniker": "ProgiApp.Domain\\Models\\OtherFee.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\Models\\OtherFee.cs",
+              "RelativeToolTip": "ProgiApp.Domain\\Models\\OtherFee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T15:22:30.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T02:16:14.96Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Vehicle.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\Models\\Vehicle.cs",
-              "RelativeDocumentMoniker": "ProgiApp.Domain\\Models\\Vehicle.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\Models\\Vehicle.cs",
-              "RelativeToolTip": "ProgiApp.Domain\\Models\\Vehicle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Title": "Type.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\Models\\Type.cs",
+              "RelativeDocumentMoniker": "ProgiApp.Domain\\Models\\Type.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\Models\\Type.cs",
+              "RelativeToolTip": "ProgiApp.Domain\\Models\\Type.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T00:55:08.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T15:22:30.149Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "SellerFee.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\Models\\SellerFee.cs",
-              "RelativeDocumentMoniker": "ProgiApp.Domain\\Models\\SellerFee.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\Models\\SellerFee.cs",
-              "RelativeToolTip": "ProgiApp.Domain\\Models\\SellerFee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T23:00:25.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SellerFeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\SellerFeeRepository.cs",
-              "RelativeDocumentMoniker": "ProgiApp.Infrastructure\\Repositories\\SellerFeeRepository.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\SellerFeeRepository.cs",
-              "RelativeToolTip": "ProgiApp.Infrastructure\\Repositories\\SellerFeeRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAABoAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T19:26:30.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "OtherFeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\OtherFeeRepository.cs",
-              "RelativeDocumentMoniker": "ProgiApp.Infrastructure\\Repositories\\OtherFeeRepository.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\OtherFeeRepository.cs",
-              "RelativeToolTip": "ProgiApp.Infrastructure\\Repositories\\OtherFeeRepository.cs",
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ProgiApp.Domain\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\Models\\Vehicle.cs",
+              "RelativeToolTip": "ProgiApp.Domain\\Models\\Vehicle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T19:27:04.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AssociationFeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\AssociationFeeRepository.cs",
-              "RelativeDocumentMoniker": "ProgiApp.Infrastructure\\Repositories\\AssociationFeeRepository.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\AssociationFeeRepository.cs",
-              "RelativeToolTip": "ProgiApp.Infrastructure\\Repositories\\AssociationFeeRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T19:29:11.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T00:55:08.319Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.API\\Program.cs",
-              "RelativeDocumentMoniker": "ProgiApp.API\\Program.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.API\\Program.cs",
-              "RelativeToolTip": "ProgiApp.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Title": "SellerFee.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\Models\\SellerFee.cs",
+              "RelativeDocumentMoniker": "ProgiApp.Domain\\Models\\SellerFee.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\Models\\SellerFee.cs",
+              "RelativeToolTip": "ProgiApp.Domain\\Models\\SellerFee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T23:06:27.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T23:00:25.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IAssociationFeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\Interfaces\\IAssociationFeeRepository.cs",
-              "RelativeDocumentMoniker": "ProgiApp.Domain\\Interfaces\\IAssociationFeeRepository.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\Interfaces\\IAssociationFeeRepository.cs",
-              "RelativeToolTip": "ProgiApp.Domain\\Interfaces\\IAssociationFeeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "DocumentIndex": 18,
+              "Title": "SellerFeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\SellerFeeRepository.cs",
+              "RelativeDocumentMoniker": "ProgiApp.Infrastructure\\Repositories\\SellerFeeRepository.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\SellerFeeRepository.cs",
+              "RelativeToolTip": "ProgiApp.Infrastructure\\Repositories\\SellerFeeRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABoAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T19:11:59.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T19:26:30.354Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "BuyerFeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\BuyerFeeRepository.cs",
-              "RelativeDocumentMoniker": "ProgiApp.Infrastructure\\Repositories\\BuyerFeeRepository.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\BuyerFeeRepository.cs",
-              "RelativeToolTip": "ProgiApp.Infrastructure\\Repositories\\BuyerFeeRepository.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAUAAAAAAAAA",
+              "Title": "OtherFeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\OtherFeeRepository.cs",
+              "RelativeDocumentMoniker": "ProgiApp.Infrastructure\\Repositories\\OtherFeeRepository.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\OtherFeeRepository.cs",
+              "RelativeToolTip": "ProgiApp.Infrastructure\\Repositories\\OtherFeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T19:44:49.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T19:27:04.006Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "TypeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\TypeRepository.cs",
-              "RelativeDocumentMoniker": "ProgiApp.Infrastructure\\Repositories\\TypeRepository.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\TypeRepository.cs",
-              "RelativeToolTip": "ProgiApp.Infrastructure\\Repositories\\TypeRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAAJAAAA",
+              "Title": "AssociationFeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\AssociationFeeRepository.cs",
+              "RelativeDocumentMoniker": "ProgiApp.Infrastructure\\Repositories\\AssociationFeeRepository.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\AssociationFeeRepository.cs",
+              "RelativeToolTip": "ProgiApp.Infrastructure\\Repositories\\AssociationFeeRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T19:24:41.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T19:29:11.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProgiApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.API\\Program.cs",
+              "RelativeToolTip": "ProgiApp.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T23:06:27.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAssociationFeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\Interfaces\\IAssociationFeeRepository.cs",
+              "RelativeDocumentMoniker": "ProgiApp.Domain\\Interfaces\\IAssociationFeeRepository.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\Interfaces\\IAssociationFeeRepository.cs",
+              "RelativeToolTip": "ProgiApp.Domain\\Interfaces\\IAssociationFeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:11:59.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BuyerFeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\BuyerFeeRepository.cs",
+              "RelativeDocumentMoniker": "ProgiApp.Infrastructure\\Repositories\\BuyerFeeRepository.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\BuyerFeeRepository.cs",
+              "RelativeToolTip": "ProgiApp.Infrastructure\\Repositories\\BuyerFeeRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:44:49.535Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "ISellerFeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\Interfaces\\ISellerFeeRepository.cs",
-              "RelativeDocumentMoniker": "ProgiApp.Domain\\Interfaces\\ISellerFeeRepository.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\Interfaces\\ISellerFeeRepository.cs",
-              "RelativeToolTip": "ProgiApp.Domain\\Interfaces\\ISellerFeeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Title": "TypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\TypeRepository.cs",
+              "RelativeDocumentMoniker": "ProgiApp.Infrastructure\\Repositories\\TypeRepository.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Infrastructure\\Repositories\\TypeRepository.cs",
+              "RelativeToolTip": "ProgiApp.Infrastructure\\Repositories\\TypeRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T19:14:47.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T19:24:41.215Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "IBuyerFeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\Interfaces\\IBuyerFeeRepository.cs",
-              "RelativeDocumentMoniker": "ProgiApp.Domain\\Interfaces\\IBuyerFeeRepository.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\Interfaces\\IBuyerFeeRepository.cs",
-              "RelativeToolTip": "ProgiApp.Domain\\Interfaces\\IBuyerFeeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Title": "ISellerFeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\Interfaces\\ISellerFeeRepository.cs",
+              "RelativeDocumentMoniker": "ProgiApp.Domain\\Interfaces\\ISellerFeeRepository.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\Interfaces\\ISellerFeeRepository.cs",
+              "RelativeToolTip": "ProgiApp.Domain\\Interfaces\\ISellerFeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T19:13:00.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T19:14:47.268Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "BuyerFee.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\Models\\BuyerFee.cs",
-              "RelativeDocumentMoniker": "ProgiApp.Domain\\Models\\BuyerFee.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\Models\\BuyerFee.cs",
-              "RelativeToolTip": "ProgiApp.Domain\\Models\\BuyerFee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAOAAAA",
+              "Title": "IBuyerFeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\Interfaces\\IBuyerFeeRepository.cs",
+              "RelativeDocumentMoniker": "ProgiApp.Domain\\Interfaces\\IBuyerFeeRepository.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\Interfaces\\IBuyerFeeRepository.cs",
+              "RelativeToolTip": "ProgiApp.Domain\\Interfaces\\IBuyerFeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T16:33:29.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T19:13:00.505Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "AssociationFee.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\Models\\AssociationFee.cs",
-              "RelativeDocumentMoniker": "ProgiApp.Domain\\Models\\AssociationFee.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\Models\\AssociationFee.cs",
-              "RelativeToolTip": "ProgiApp.Domain\\Models\\AssociationFee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Title": "BuyerFee.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\Models\\BuyerFee.cs",
+              "RelativeDocumentMoniker": "ProgiApp.Domain\\Models\\BuyerFee.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\Models\\BuyerFee.cs",
+              "RelativeToolTip": "ProgiApp.Domain\\Models\\BuyerFee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T22:58:27.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T16:33:29.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 27,
+              "Title": "AssociationFee.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\Models\\AssociationFee.cs",
+              "RelativeDocumentMoniker": "ProgiApp.Domain\\Models\\AssociationFee.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\Models\\AssociationFee.cs",
+              "RelativeToolTip": "ProgiApp.Domain\\Models\\AssociationFee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T22:58:27.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.API\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.API\\appsettings.json",
               "RelativeDocumentMoniker": "ProgiApp.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.API\\appsettings.json",
               "RelativeToolTip": "ProgiApp.API\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -505,37 +501,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "ApplicationAssemblyReference.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Services\\ApplicationAssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Services\\ApplicationAssemblyReference.cs",
               "RelativeDocumentMoniker": "ProgiApp.Services\\ApplicationAssemblyReference.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Services\\ApplicationAssemblyReference.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Services\\ApplicationAssemblyReference.cs",
               "RelativeToolTip": "ProgiApp.Services\\ApplicationAssemblyReference.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T14:29:35.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T14:29:35.932Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Services\\DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Services\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "ProgiApp.Services\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Services\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Services\\DependencyInjection.cs",
               "RelativeToolTip": "ProgiApp.Services\\DependencyInjection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T14:30:12.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T14:30:12.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "ProgiApp.API.http",
-              "DocumentMoniker": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.API\\ProgiApp.API.http",
+              "DocumentMoniker": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.API\\ProgiApp.API.http",
               "RelativeDocumentMoniker": "ProgiApp.API\\ProgiApp.API.http",
-              "ToolTip": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.API\\ProgiApp.API.http",
+              "ToolTip": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.API\\ProgiApp.API.http",
               "RelativeToolTip": "ProgiApp.API\\ProgiApp.API.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",

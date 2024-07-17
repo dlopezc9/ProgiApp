@@ -9,12 +9,10 @@ namespace ProgiApp.Services.CommandsHandler.Vehicles;
 public class InsertVehicleCommandHandler : IRequestHandler<InsertVehicleCommand>
 {
     private readonly IVehicleRepository vehicleRepository;
-    private readonly IConfiguration configuration;
 
-    public InsertVehicleCommandHandler(IVehicleRepository vehicleRepository, IConfiguration configuration)
+    public InsertVehicleCommandHandler(IVehicleRepository vehicleRepository)
     {
         this.vehicleRepository = vehicleRepository;
-        this.configuration = configuration;
     }
 
     public async Task Handle(InsertVehicleCommand request, CancellationToken cancellationToken)

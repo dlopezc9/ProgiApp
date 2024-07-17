@@ -10,3 +10,16 @@ C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Domain\obj\Debug\net8.0\refint\ProgiA
 C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Domain\obj\Debug\net8.0\ProgiApp.Domain.pdb
 C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Domain\obj\Debug\net8.0\ref\ProgiApp.Domain.dll
 C:\Users\dlopezc9\source\ProgiApp\ProgiApp.Domain\obj\Debug\net8.0\ProgiApp.Domain.csproj.AssemblyReference.cache
+C:\Users\dlopezc9\Documents\ModList\ProgiApp\ProgiApp\ProgiApp.Domain\bin\Debug\net8.0\ProgiApp.Domain.deps.json
+C:\Users\dlopezc9\Documents\ModList\ProgiApp\ProgiApp\ProgiApp.Domain\bin\Debug\net8.0\ProgiApp.Domain.dll
+C:\Users\dlopezc9\Documents\ModList\ProgiApp\ProgiApp\ProgiApp.Domain\bin\Debug\net8.0\ProgiApp.Domain.pdb
+C:\Users\dlopezc9\Documents\ModList\ProgiApp\ProgiApp\ProgiApp.Domain\obj\Debug\net8.0\ProgiApp.Domain.csproj.AssemblyReference.cache
+C:\Users\dlopezc9\Documents\ModList\ProgiApp\ProgiApp\ProgiApp.Domain\obj\Debug\net8.0\ProgiApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlopezc9\Documents\ModList\ProgiApp\ProgiApp\ProgiApp.Domain\obj\Debug\net8.0\ProgiApp.Domain.AssemblyInfoInputs.cache
+C:\Users\dlopezc9\Documents\ModList\ProgiApp\ProgiApp\ProgiApp.Domain\obj\Debug\net8.0\ProgiApp.Domain.AssemblyInfo.cs
+C:\Users\dlopezc9\Documents\ModList\ProgiApp\ProgiApp\ProgiApp.Domain\obj\Debug\net8.0\ProgiApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dlopezc9\Documents\ModList\ProgiApp\ProgiApp\ProgiApp.Domain\obj\Debug\net8.0\ProgiApp.Domain.sourcelink.json
+C:\Users\dlopezc9\Documents\ModList\ProgiApp\ProgiApp\ProgiApp.Domain\obj\Debug\net8.0\ProgiApp.Domain.dll
+C:\Users\dlopezc9\Documents\ModList\ProgiApp\ProgiApp\ProgiApp.Domain\obj\Debug\net8.0\refint\ProgiApp.Domain.dll
+C:\Users\dlopezc9\Documents\ModList\ProgiApp\ProgiApp\ProgiApp.Domain\obj\Debug\net8.0\ProgiApp.Domain.pdb
+C:\Users\dlopezc9\Documents\ModList\ProgiApp\ProgiApp\ProgiApp.Domain\obj\Debug\net8.0\ref\ProgiApp.Domain.dll

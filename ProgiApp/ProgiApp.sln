@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgiApp.API", "ProgiApp.API\ProgiApp.API.csproj", "{C7D2E45A-60D9-41A1-A7D9-39E2AABB295B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgiApp.API", "ProgiApp.API\ProgiApp.API.csproj", "{C7D2E45A-60D9-41A1-A7D9-39E2AABB295B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgiApp.Infrastructure", "ProgiApp.Infrastructure\ProgiApp.Infrastructure.csproj", "{DCC22F91-81CD-401E-A13C-A653E4CEB90C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgiApp.Infrastructure", "ProgiApp.Infrastructure\ProgiApp.Infrastructure.csproj", "{DCC22F91-81CD-401E-A13C-A653E4CEB90C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgiApp.Domain", "ProgiApp.Domain\ProgiApp.Domain.csproj", "{ABA241A9-BB62-4E21-A018-A2F02C831409}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgiApp.Domain", "ProgiApp.Domain\ProgiApp.Domain.csproj", "{ABA241A9-BB62-4E21-A018-A2F02C831409}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgiApp.Services", "ProgiApp.Services\ProgiApp.Services.csproj", "{B2AF76FD-666D-47B4-99FA-AB185F75C73D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgiApp.Services", "ProgiApp.Services\ProgiApp.Services.csproj", "{B2AF76FD-666D-47B4-99FA-AB185F75C73D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgiApp.API.Tests", "ProgiApp.API.Tests\ProgiApp.API.Tests.csproj", "{91C74D23-D7E3-405B-8B5C-6B120CF62F79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B2AF76FD-666D-47B4-99FA-AB185F75C73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2AF76FD-666D-47B4-99FA-AB185F75C73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2AF76FD-666D-47B4-99FA-AB185F75C73D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91C74D23-D7E3-405B-8B5C-6B120CF62F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C74D23-D7E3-405B-8B5C-6B120CF62F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C74D23-D7E3-405B-8B5C-6B120CF62F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C74D23-D7E3-405B-8B5C-6B120CF62F79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -567,11 +567,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\ProgiApp.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\ProgiApp.Domain.csproj",
       "projectName": "ProgiApp.Domain",
-      "projectPath": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\ProgiApp.Domain.csproj",
+      "projectPath": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\ProgiApp.Domain.csproj",
       "packagesPath": "C:\\Users\\dlopezc9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dlopezc9\\source\\ProgiApp\\ProgiApp.Domain\\obj\\",
+      "outputPath": "C:\\Users\\dlopezc9\\Documents\\ModList\\ProgiApp\\ProgiApp\\ProgiApp.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
